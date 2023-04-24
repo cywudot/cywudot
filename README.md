@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Canny</h1>
-<h3 align="center">"I love crafting beautiful and intuitive web interfaces that provide an engaging user experience. As a front-end developer, I'm passionate about bringing ideas to life through the power of code.</h3>
+<h3 align="center">"I love crafting beautiful and intuitive web interfaces that provide an engaging user experience. As a front-end developer, I'm passionate about bringing ideas to life through the power of code."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cywudot&label=Profile%20views&color=0e75b6&style=flat" alt="cywudot" /> </p>
 
