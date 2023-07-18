@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AnderHill eCommerce**
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React, SQL**
 
 - 📫 How to reach me **cy.wukodo@gmail.com**
 
