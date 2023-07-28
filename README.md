@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cywudot&label=Profile%20views&color=0e75b6&style=flat" alt="cywudot" /> </p>
 
 
-- 🔭 I’m currently working on **AnderHill eCommerce**
+- 🔭 I’m currently working on **Green Thumb App**
 
-- 🌱 I’m currently learning **React, SQL**
+- 🌱 I’m currently learning **React, SQL, Vite**
 
 - 📫 How to reach me **cy.wukodo@gmail.com**
 
